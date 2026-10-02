@@ -1,0 +1,81 @@
+CustomerID,CustomerName,Country,Segment
+C001,Customer 001,India,Consumer
+C002,Customer 002,India,Consumer
+C003,Customer 003,India,Consumer
+C004,Customer 004,USA,Consumer
+C005,Customer 005,India,Consumer
+C006,Customer 006,India,Corporate
+C007,Customer 007,Singapore,Consumer
+C008,Customer 008,Canada,Consumer
+C009,Customer 009,India,Corporate
+C010,Customer 010,India,Consumer
+C011,Customer 011,France,Consumer
+C012,Customer 012,Australia,Consumer
+C013,Customer 013,USA,Corporate
+C014,Customer 014,Canada,Consumer
+C015,Customer 015,India,Consumer
+C016,Customer 016,UK,Small Business
+C017,Customer 017,UK,Consumer
+C018,Customer 018,Canada,Corporate
+C019,Customer 019,India,Consumer
+C020,Customer 020,USA,Small Business
+C021,Customer 021,USA,Consumer
+C022,Customer 022,India,Consumer
+C023,Customer 023,Germany,Corporate
+C024,Customer 024,UK,Consumer
+C025,Customer 025,UK,Corporate
+C026,Customer 026,Germany,Small Business
+C027,Customer 027,Germany,Corporate
+C028,Customer 028,India,Consumer
+C029,Customer 029,India,Corporate
+C030,Customer 030,USA,Consumer
+C031,Customer 031,India,Consumer
+C032,Customer 032,France,Small Business
+C033,Customer 033,Germany,Consumer
+C034,Customer 034,France,Corporate
+C035,Customer 035,India,Small Business
+C036,Customer 036,India,Small Business
+C037,Customer 037,India,Corporate
+C038,Customer 038,UK,Small Business
+C039,Customer 039,India,Small Business
+C040,Customer 040,Australia,Corporate
+C041,Customer 041,India,Consumer
+C042,Customer 042,Germany,Corporate
+C043,Customer 043,France,Consumer
+C044,Customer 044,UK,Consumer
+C045,Customer 045,USA,Consumer
+C046,Customer 046,Australia,Consumer
+C047,Customer 047,India,Small Business
+C048,Customer 048,India,Corporate
+C049,Customer 049,UK,Consumer
+C050,Customer 050,India,Consumer
+C051,Customer 051,India,Small Business
+C052,Customer 052,Australia,Consumer
+C053,Customer 053,USA,Small Business
+C054,Customer 054,India,Corporate
+C055,Customer 055,France,Consumer
+C056,Customer 056,Australia,Consumer
+C057,Customer 057,India,Consumer
+C058,Customer 058,USA,Consumer
+C059,Customer 059,USA,Corporate
+C060,Customer 060,Australia,Consumer
+C061,Customer 061,India,Consumer
+C062,Customer 062,India,Corporate
+C063,Customer 063,India,Consumer
+C064,Customer 064,Germany,Small Business
+C065,Customer 065,India,Consumer
+C066,Customer 066,Germany,Consumer
+C067,Customer 067,India,Corporate
+C068,Customer 068,Canada,Consumer
+C069,Customer 069,France,Consumer
+C070,Customer 070,Australia,Consumer
+C071,Customer 071,USA,Small Business
+C072,Customer 072,India,Consumer
+C073,Customer 073,Singapore,Corporate
+C074,Customer 074,Germany,Corporate
+C075,Customer 075,Australia,Consumer
+C076,Customer 076,UK,Consumer
+C077,Customer 077,France,Corporate
+C078,Customer 078,UK,Corporate
+C079,Customer 079,USA,Consumer
+C080,Customer 080,France,Corporate

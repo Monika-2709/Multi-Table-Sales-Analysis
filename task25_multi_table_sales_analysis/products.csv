@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Product 001,Electronics,171.74
+P002,Product 002,Personal Care,290.23
+P003,Product 003,Office Supplies,178.5
+P004,Product 004,Beverages,224.95
+P005,Product 005,Beverages,178.01
+P006,Product 006,Home & Kitchen,292.99
+P007,Product 007,Office Supplies,340.01
+P008,Product 008,Electronics,228.94
+P009,Product 009,Electronics,324.22
+P010,Product 010,Home & Kitchen,390.26
+P011,Product 011,Office Supplies,411.27
+P012,Product 012,Office Supplies,329.91
+P013,Product 013,Electronics,270.76
+P014,Product 014,Beverages,220.31
+P015,Product 015,Personal Care,383.8
+P016,Product 016,Electronics,419.86
+P017,Product 017,Office Supplies,126.05
+P018,Product 018,Home & Kitchen,306.2
+P019,Product 019,Office Supplies,47.1
+P020,Product 020,Home & Kitchen,243.78
+P021,Product 021,Personal Care,181.87
+P022,Product 022,Personal Care,194.73
+P023,Product 023,Electronics,383.28
+P024,Product 024,Home & Kitchen,62.13
+P025,Product 025,Home & Kitchen,378.37
+P026,Product 026,Electronics,191.0
+P027,Product 027,Office Supplies,407.38
+P028,Product 028,Beverages,247.99
+P029,Product 029,Electronics,162.22
+P030,Product 030,Beverages,113.3
+P031,Product 031,Personal Care,240.42
+P032,Product 032,Electronics,359.6
+P033,Product 033,Home & Kitchen,343.91
+P034,Product 034,Office Supplies,240.97
+P035,Product 035,Office Supplies,256.53
+P036,Product 036,Electronics,317.52
+P037,Product 037,Personal Care,370.44
+P038,Product 038,Electronics,333.12
+P039,Product 039,Beverages,371.76
+P040,Product 040,Personal Care,55.56
+P041,Product 041,Electronics,131.82
+P042,Product 042,Personal Care,217.16
+P043,Product 043,Office Supplies,324.1
+P044,Product 044,Office Supplies,199.56
+P045,Product 045,Beverages,363.94
+P046,Product 046,Office Supplies,290.4
+P047,Product 047,Home & Kitchen,276.57
+P048,Product 048,Home & Kitchen,258.33
+P049,Product 049,Office Supplies,270.34
+P050,Product 050,Personal Care,388.56

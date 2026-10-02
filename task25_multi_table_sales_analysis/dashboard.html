@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Task 25 - Multi-Table Sales Analysis</title>
+<style>
+body{font-family:Arial,sans-serif;margin:30px;background:#f5f7fb;color:#172554}
+h1{margin-bottom:5px} .sub{color:#64748b}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:20px 0}
+.card{background:white;padding:18px;border-radius:12px;box-shadow:0 2px 8px #0001}
+.value{font-size:26px;font-weight:bold;margin-top:8px}
+.panel{background:white;padding:20px;border-radius:12px;margin:18px 0}
+img{max-width:100%;border-radius:10px}
+.data-table{width:100%;border-collapse:collapse} .data-table th,.data-table td{padding:8px;border-bottom:1px solid #e2e8f0;text-align:left}
+</style>
+</head>
+<body>
+<h1>Multi-Table Sales Analysis</h1>
+<div class="sub">Task 25 • Orders + Products + Customers • Power BI-ready</div>
+<div class="grid">
+<div class="card">Total Sales<div class="value">982,741.38</div></div>
+<div class="card">Orders<div class="value">900</div></div>
+<div class="card">Units Sold<div class="value">4,058</div></div>
+<div class="card">Average Order Value<div class="value">1,091.93</div></div>
+</div>
+<div class="panel"><h2>Dashboard Preview</h2><img src="dashboard_preview.png"></div>
+<div class="panel"><h2>Top 10 Products</h2><table class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>ProductName</th>
+      <th>Sales</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Product 011</td>
+      <td>186490.40</td>
+    </tr>
+    <tr>
+      <td>Product 008</td>
+      <td>58826.13</td>
+    </tr>
+    <tr>
+      <td>Product 038</td>
+      <td>58146.10</td>
+    </tr>
+    <tr>
+      <td>Product 023</td>
+      <td>44901.24</td>
+    </tr>
+    <tr>
+      <td>Product 046</td>
+      <td>43501.92</td>
+    </tr>
+    <tr>
+      <td>Product 015</td>
+      <td>32834.09</td>
+    </tr>
+    <tr>
+      <td>Product 002</td>
+      <td>31156.18</td>
+    </tr>
+    <tr>
+      <td>Product 007</td>
+      <td>29274.87</td>
+    </tr>
+    <tr>
+      <td>Product 036</td>
+      <td>27957.64</td>
+    </tr>
+    <tr>
+      <td>Product 034</td>
+      <td>27916.37</td>
+    </tr>
+  </tbody>
+</table></div>
+<div class="panel"><h2>Sales by Segment</h2><table class="dataframe data-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Segment</th>
+      <th>Sales</th>
+      <th>Orders</th>
+      <th>AOV</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Consumer</td>
+      <td>518307.68</td>
+      <td>493</td>
+      <td>1051.33</td>
+    </tr>
+    <tr>
+      <td>Corporate</td>
+      <td>283149.06</td>
+      <td>255</td>
+      <td>1110.39</td>
+    </tr>
+    <tr>
+      <td>Small Business</td>
+      <td>181284.64</td>
+      <td>152</td>
+      <td>1192.66</td>
+    </tr>
+  </tbody>
+</table></div>
+</body></html>
